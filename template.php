@@ -25,7 +25,7 @@ require_once('library/PHPMailer/class.phpmailer.php');
 <body>
 	<a href="#"><div class="center"><img alt="" class="center" src="images/Facebook_Background_EN.jpg" title="INTERPARLIAMENTARY ASSEMBLY OF ORTHODOXY" /></div></a>
 	
-	<center><div style="width:1400px; float:center; color:red; "><font size='4' color='red'>INTERNATIONAL ICON PAINTING COMPETITION OF THE INTERPARLIAMENTARY ASSEMBLY OF ORTHODOXY (I.A.O.)</font></div></center>-->
+	<center><div style="width:1400px; float:center; color:red; "><font size='4' color='red'></font></div></center>-->
   <div id="main">
 
    <?php require_once $content; ?> 
