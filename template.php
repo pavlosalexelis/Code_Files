@@ -23,7 +23,7 @@ require_once('library/PHPMailer/class.phpmailer.php');
 </head>
 							
 <body>
-	<a href="#"><div class="center"><img alt="" class="center" src="images/Facebook_Background_EN.jpg" title="INTERPARLIAMENTARY ASSEMBLY OF ORTHODOXY" /></div></a>
+	<a href="#"><div class="center"><img alt="" class="center" src="images/Facebook_Background_EN.jpg" title="" /></div></a>
 	
 	<center><div style="width:1400px; float:center; color:red; "><font size='4' color='red'></font></div></center>-->
   <div id="main">
